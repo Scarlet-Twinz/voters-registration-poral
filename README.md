@@ -93,3 +93,9 @@ This project is intended for learning and demonstration purposes. The browser `l
 ## Author
 
 **Anthony Emmanuella Mmasinachi**
+
+## Project Links
+
+- **Repository:** https://github.com/Scarlet-Twinz/voters-registration-poral
+- **Author:** Anthony Emmanuella Mmasinachi
+- **GitHub:** https://github.com/Scarlet-Twinz
