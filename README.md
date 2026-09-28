@@ -99,3 +99,8 @@ This project is intended for learning and demonstration purposes. The browser `l
 - **Repository:** https://github.com/Scarlet-Twinz/voters-registration-poral
 - **Author:** Anthony Emmanuella Mmasinachi
 - **GitHub:** https://github.com/Scarlet-Twinz
+## License
+
+MIT License.
+
+See [LICENSE](LICENSE) for the full license text.
